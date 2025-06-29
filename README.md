@@ -18,6 +18,7 @@
 - 💬 Ask me about: `Flutter`, `Firebase`, `API Integration`
 - 👯 I’m looking to collaborate on **Flutter Projects**
 - 🤝 Open to **freelance work** and networking
+- 👨‍💻 My Portfolio website: [farmanali.carrd.co](https://farmanali.carrd.co/)
 - 📫 How to reach me: [farmanali00742@gmail.com](mailto:farmanali00742@gmail.com)
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1rz8Z4Ak_xkGGZvkB1uN6XpYGGnwMzN9G/view?usp=drivesdk)
 - 👨‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/farman-ali-0b1a90233)
@@ -52,6 +53,9 @@
 ### 🔗 Let's Connect!
 
 <div align="center">
+  <a href="https://farmanali.carrd.co" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/domain.png" title="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/farman-ali-0b1a90233" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" />
   </a>
@@ -61,7 +65,6 @@
   <a href="mailto:farmanali00742@gmail.com" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/gmail.png" />
   </a>
-  <!-- Optional if you add Dev.to, YouTube, etc. -->
 </div>
 
 ---
@@ -74,8 +77,4 @@
 
 ---
 
-
----
-
 <p align="center">✨ Credit: Designed by <a href="https://github.com/farmanalidevdynamos">Farman Ali</a> | Inspired by @100rabhcsmc</p>
-
