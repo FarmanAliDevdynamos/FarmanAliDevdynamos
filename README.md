@@ -78,4 +78,4 @@
 ---
 
 <p align="center">✨ Credit: Designed by <a href="https://github.com/farmanalidevdynamos">Farman Ali</a> | Inspired by @100rabhcsmc</p>
-<p align="center">🕒 Last updated: {{ Add date here manually }}</p>
+
