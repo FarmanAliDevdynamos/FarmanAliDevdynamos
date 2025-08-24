@@ -18,7 +18,7 @@
 - 💬 Ask me about: `Flutter`, `Firebase`, `API Integration`
 - 👯 I’m looking to collaborate on **Flutter Projects**
 - 🤝 Open to **freelance work** and networking
-- 👨‍💻 My Portfolio website: [farmanali_portfolio](https://farmanaliportfolio.netlify.app/)
+- 👨‍💻 My Portfolio website: [farmanali_portfolio](https://farmanaliportfolio.netlify.app)
 - 📫 How to reach me: [farmanali00742@gmail.com](mailto:farmanali00742@gmail.com)
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1ao1VNQSYqlpjolHZgoLWYquFeNezSkyv/view?usp=drivesdk)
 - 👨‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/farman-ali-0b1a90233)
