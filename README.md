@@ -1,80 +1,91 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/farman-ali-0b1a90233" target="_blank">Farman Ali</a></h1>
-<h3 align="center">🚀 A Passionate Flutter App Developer from Pakistan 🇵🇰</h3>
+# Hi there 👋, I'm Farman Ali
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=farmanalidevdynamos&label=Profile%20views&color=0e75b6&style=flat" alt="farmanalidevdynamos" />
-</p>
-
-<a target="_blank" align="right">
-  <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-</a>
-
----
-
-### 🧑‍💻 About Me
-
-- 🔭 I’m currently building a **Video Chatting App**
-- 🌱 Exploring **Rive Animations** for advanced UI
-- 💬 Ask me about: `Flutter`, `Firebase`, `API Integration`
-- 👯 I’m looking to collaborate on **Flutter Projects**
-- 🤝 Open to **freelance work** and networking
-- 👨‍💻 My Portfolio website: [farmanali_portfolio](https://farmanaliportfolio.netlify.app)
-- 📫 How to reach me: [farmanali00742@gmail.com](mailto:farmanali00742@gmail.com)
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1ao1VNQSYqlpjolHZgoLWYquFeNezSkyv/view?usp=drivesdk)
-- 👨‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/farman-ali-0b1a90233)
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farmanalidevdynamos&show_icons=true&theme=dracula&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farmanalidevdynamos&layout=compact&theme=dracula" height="170" />
-</div>
-
----
-
-### 🔗 Let's Connect!
-
-<div align="center">
-  <a href="https://farmanali.carrd.co" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/domain.png" title="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/farman-ali-0b1a90233" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" />
-  </a>
-  <a href="https://github.com/farmanalidevdynamos" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" />
-  </a>
-  <a href="mailto:farmanali00742@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/gmail.png" />
-  </a>
-</div>
-
----
-
-### 🐍 GitHub Snake Contribution Graph
+<h3 align="center">📊 Aspiring Data Analyst | Business Intelligence | Power BI | Python & SQL</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20Data%20Analyst;Power%20BI%20Dashboard%20Developer;SQL%20%7C%20Python%20%7C%20Excel;Turning%20Data%20Into%20Insights&center=true&width=550&height=45&color=2F80ED&vCenter=true&size=22" alt="Typing animation" />
 </p>
 
 ---
 
-<p align="center">✨ Credit: Designed by <a href="https://github.com/farmanalidevdynamos">Farman Ali</a> | Inspired by @100rabhcsmc</p>
+### 🔍 About Me
+
+- 🎓 Computer Science graduate (2025).
+- 📊 Focused on **Data Analytics and Business Intelligence**.
+- 🌐 Building practical projects using real-world datasets.
+- 📈 Interested in data cleaning, exploratory analysis, dashboards, and business insights.
+- 🛠️ Developing skills in **Power BI, SQL, Python, and Excel**.
+- 💻 Previous experience in Flutter development and manual software testing.
+- 🤝 Open to Data Analyst internships, entry-level opportunities, and project collaborations.
+- 📩 Reach me at: **[Email](mailto:farman440971@gmail.com)**
+
+---
+
+### 🌟 Featured Project
+
+<h3>📊 Pakistan E-Commerce Power BI Dashboard</h3>
+
+An interactive Power BI project exploring e-commerce sales performance, product categories, and customer purchasing behavior.
+
+**Project highlights:**
+- 📈 Overall sales and order performance
+- 👕 Men's fashion analysis
+- 💄 Beauty and grooming analysis
+- 🧸 Kids and baby product analysis
+- 📊 Interactive dashboards and visual reporting
+
+<p align="center">
+  <a href="https://github.com/farmanalidevdynamos/Pakistan-Ecommerce-PowerBI-Dashboard">
+    <img src="https://img.shields.io/badge/View%20Project-Power%20BI%20Dashboard-2F80ED?style=for-the-badge&logo=powerbi&logoColor=white" alt="View Power BI project" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/farmanalidevdynamos/Pakistan-Ecommerce-PowerBI-Dashboard/main/Images/dashboard_overview.png" alt="Pakistan E-Commerce Power BI Dashboard" width="800" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/farman-ali-0b1a90233" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/farmanalidevdynamos" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://farmanaliportfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Microsoft Excel" width="45" height="45" />
+</p>
+
+Analytics: Power BI · Excel · DAX · SQL · Python · Data Cleaning · Data Visualization
+
+Libraries: Pandas · NumPy
+
+Previous development experience: Flutter · Dart · Firebase · REST APIs · Manual Software Testing
+
+
+---
+
+<h3 align="center">✨ Turning Data into Insights, One Project at a Time!</h3>
+
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
