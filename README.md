@@ -17,7 +17,7 @@
 - 🛠️ Developing skills in **Power BI, SQL, Python, and Excel**.
 - 💻 Previous experience in Flutter development and manual software testing.
 - 🤝 Open to Data Analyst internships, entry-level opportunities, and project collaborations.
-- 📩 Reach me at: **[Email](mailto:farman440971@gmail.com)**
+- 📩 Reach me at: **[farmanali00742@gmail.com](mailto:farman440971@gmail.com)**
 
 ---
 
