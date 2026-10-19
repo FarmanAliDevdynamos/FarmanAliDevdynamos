@@ -21,28 +21,6 @@
 
 ---
 
-### 🌟 Featured Project
-
-<h3>📊 Pakistan E-Commerce Power BI Dashboard</h3>
-
-An interactive Power BI project exploring e-commerce sales performance, product categories, and customer purchasing behavior.
-
-**Project highlights:**
-- 📈 Overall sales and order performance
-- 👕 Men's fashion analysis
-- 💄 Beauty and grooming analysis
-- 🧸 Kids and baby product analysis
-- 📊 Interactive dashboards and visual reporting
-
-<p align="center">
-  <a href="https://github.com/farmanalidevdynamos/Pakistan-Ecommerce-PowerBI-Dashboard">
-    <img src="https://img.shields.io/badge/View%20Project-Power%20BI%20Dashboard-2F80ED?style=for-the-badge&logo=powerbi&logoColor=white" alt="View Power BI project" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/farmanalidevdynamos/Pakistan-Ecommerce-PowerBI-Dashboard/main/Images/dashboard_overview.png" alt="Pakistan E-Commerce Power BI Dashboard" width="800" />
-</p>
 
 ---
 
